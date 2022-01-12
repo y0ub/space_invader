@@ -15,7 +15,7 @@ space_invader::SpaceInvader::SpaceInvader ()
 
 /*******************************************/
 /* date: 2022/01/10                        */
-/* what: show function name                */
+/* what: look at this function name        */
 /* why : call flexibly                     */
 /*       screen::print_screen              */
 /*******************************************/
@@ -63,7 +63,7 @@ RETURN_FROM_SPACE_INVADER_KILL_INVADER:
 
 /*******************************************/
 /* date: 2022/01/11                        */
-/* what: show function name                */
+/* what: look at this function name        */
 /*******************************************/
 void space_invader::
 SpaceInvader::kill_invader_processing (const int i, const int j)
@@ -106,7 +106,7 @@ void space_invader::SpaceInvader::player_bullet_processing ()
 
 /*******************************************/
 /* date: 2022/01/11                        */
-/* what: show function name                */
+/* what: look at this function name        */
 /*******************************************/
 void space_invader::
 SpaceInvader::invader_bullet_processing ()
@@ -156,7 +156,7 @@ void space_invader::SpaceInvader::game_processing ()
 
 /*******************************************/
 /* date: 2022/01/10                        */
-/* what: show function                     */
+/* what: look at this function             */
 /*******************************************/
 void space_invader::
 SpaceInvader::action_by_input_from_keybord ()
@@ -199,7 +199,7 @@ SpaceInvader::shoot_invader_bullet ()
 
 /*******************************************/
 /* date: 2022/01/11                        */
-/* what: show function name                */
+/* what: look at this function name        */
 /*******************************************/
 bool space_invader::SpaceInvader::is_end ()
 {
@@ -208,7 +208,7 @@ bool space_invader::SpaceInvader::is_end ()
 
 /*******************************************/
 /* date: 2022/01/11                        */
-/* what: show function name                */
+/* what: look at this function name        */
 /*******************************************/
 bool space_invader::
 SpaceInvader::is_clear ()

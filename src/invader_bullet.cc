@@ -12,7 +12,7 @@ InvaderBullet::InvaderBullet (const int invader_column)
 
 /*****************************************/
 /* date: 2022/01/11                      */
-/* what: show function name              */
+/* what: look at this function name      */
 /*****************************************/
 void space_invader::
 InvaderBullet::resize_invader_bullet (
@@ -48,7 +48,7 @@ InvaderBullet::shoot_bullet (
 
 /*****************************************/
 /* date: 2022/01/11                      */
-/* what: show function name              */
+/* what: look at this function name      */
 /*****************************************/
 void space_invader::
 InvaderBullet::move_bullet (const int screen_height)

@@ -40,7 +40,7 @@ PlayerBullet::move_bullet ()
 
 /*******************************************/
 /* date: 2022/01/11                        */
-/* what: show function name                */
+/* what: look at this function name        */
 /*******************************************/
 void space_invader::
 PlayerBullet::delete_bullet ()

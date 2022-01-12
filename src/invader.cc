@@ -18,7 +18,7 @@ space_invader::Invader::Invader ()
 
 /*****************************************/
 /* date: 2022/01/08                      */
-/* what: show function name              */
+/* what: look at this function name      */
 /*****************************************/
 void space_invader::
 Invader::resize_invader_array_ ()
@@ -90,7 +90,7 @@ void space_invader::Invader::move_invaders (
 
 /*****************************************/
 /* date: 2022/01/l1                      */
-/* what: show function name              */
+/* what: look at this function name      */
 /*****************************************/
 void space_invader::
 Invader::change_point_of_invader_array (const int i, const int j)
